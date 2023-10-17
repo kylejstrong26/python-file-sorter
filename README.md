@@ -4,7 +4,7 @@
 <br />
 <div align="center">
    <a href="https://github.com/github_username/repo_name">
-    <img src="![project-python](https://github.com/kylejstrong26/python-file-sorter/assets/131374743/20d8392d-266f-4ae2-9a0e-4ec3747b33c1)" alt="Logo" width="80" height="80">
+    <img src="![project-python] [Python-img]" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">Python File Sorter</h3>
   <p align="center">
@@ -106,3 +106,4 @@ strong.j.kyle@gmail.com
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: [https://reactjs.org/](https://www.python.org/)
 [Bash]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[Python-img]: https://github.com/kylejstrong26/python-file-sorter/assets/131374743/20d8392d-266f-4ae2-9a0e-4ec3747b33c1
