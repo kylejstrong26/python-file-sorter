@@ -3,7 +3,7 @@
 <!-- PROJECT TITLE -->
 <br />
 <div align="center">
-   <a href="https://github.com/github_username/repo_name">
+   <a href="https://github.com/kylejstrong26/python-file-sorter">
     <img src="![project-python] [Python-img]" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">Python File Sorter</h3>
@@ -52,7 +52,7 @@ See video of working model: []
 
 ### Built With
 
-* [![Pythpn][Python]][Python-url]
+* [![Python][Python]][Python-url]
 * ![Bash][Bash]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
