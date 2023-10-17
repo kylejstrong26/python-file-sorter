@@ -3,9 +3,6 @@
 <!-- PROJECT TITLE -->
 <br />
 <div align="center">
-   <a href="https://github.com/kylejstrong26/python-file-sorter">
-    <img src="![project-python] [Python-img]" alt="Logo" width="80" height="80">
-  </a>
 <h3 align="center">Python File Sorter</h3>
   <p align="center">
     Python script enabling automated file sorting from downloaded files.
@@ -104,6 +101,6 @@ strong.j.kyle@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: [https://linkedin.com/in/linkedin_username](https://www.linkedin.com/in/kylejstrong/)
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Python-url]: [https://reactjs.org/](https://www.python.org/)
+[Python-url]: https://reactjs.org/](https://www.python.org/
 [Bash]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Python-img]: https://github.com/kylejstrong26/python-file-sorter/assets/131374743/20d8392d-266f-4ae2-9a0e-4ec3747b33c1
