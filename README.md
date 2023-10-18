@@ -41,7 +41,7 @@
 Python file sorter is a Python script that enables downloaded files to be sorted into designated folders at the user's discretion.
 A paired bash script enables the Python script to be run at launch.
 <br/>
-See video of working model: []
+See video of working model: https://youtu.be/7nwrkfrQKaw
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +65,7 @@ Change source and destination folders to your liking.
 
 1. Run
    ```python
-   python3
+   python3 fileSorter.py
    ```
 
 
